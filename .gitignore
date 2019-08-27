@@ -1,0 +1,10 @@
+# Visual Studio Stuff
+*.sln
+*.pyproj
+.vs
+
+# Other IDE stuff
+.idea
+
+# Virtual environment
+venv
