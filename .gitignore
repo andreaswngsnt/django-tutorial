@@ -8,3 +8,9 @@
 
 # Virtual environment
 venv
+
+# Python cache
+**/__pycache__
+
+# SQLite DB
+*.sqlite3
